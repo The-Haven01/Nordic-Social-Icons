@@ -1,2 +1,2 @@
-# Nordic-Social-Icons
-Icons I made for many Social Platforms. Avalible in Small and Large. I will add some more every so often
+# Nordic Icons
+Icons I made for many Social Platforms. I will add more every so often.
