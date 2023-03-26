@@ -1,2 +1,2 @@
 # Nordic Icons
-Icons I made for many Social Platforms. I will add more every so often.
+Icons for many Social Platforms. Can be used in websites as hyperlinks to socials.
