@@ -1,3 +1,3 @@
-![all](https://user-images.githubusercontent.com/122183931/227809919-71dd458a-3895-4447-927b-064eaf359d80.png)
+![all](https://user-images.githubusercontent.com/122183931/227810353-15b75e12-df2a-4b48-977c-e6168713b4c1.png)
 # Nordic Icons
 Icons for many Social Platforms. Can be used in websites as hyperlinks to socials.
